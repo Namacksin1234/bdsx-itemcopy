@@ -1,0 +1,2 @@
+# bdsx-itemcopy
+namacksin
